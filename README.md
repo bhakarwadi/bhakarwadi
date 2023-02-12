@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Hi, my name's Jitendhar and I am starting on a path of Data Science.
+
+I am currently learning python in a bootcamp including pandas, matplotlib, supervised and unsupervised learning and have posted projects that I have worked on here.
 
 <!--
 **bhakarwadi/bhakarwadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
